@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Gamepad;
 
 import org.firstinspires.ftc.teamcode.wrappers.JoystickWrapper;
-
+//lol
 @TeleOp
 public class ColorDetection extends LinearOpMode {
     DcMotor Motor1;
